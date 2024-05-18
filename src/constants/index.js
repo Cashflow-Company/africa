@@ -53,7 +53,7 @@ export const feedback = [
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
+      "The way to build wealth is to make smart financial decisions, one at a time",
     name: "Best Ohwofasa",
     title: "Founder & Leader",
     img: person2,
@@ -61,7 +61,7 @@ export const feedback = [
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
+      "Wealth is not just about money, it is about time, freedom and happiness",
     name: "Edeh Peace",
     title: "Founder & Leader",
     img: person3,

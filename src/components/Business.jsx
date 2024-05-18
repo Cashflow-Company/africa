@@ -22,7 +22,7 @@ const Business = () =>  (
   <section id="features" className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        You have the money, <br className="sm:block hidden" /> we have the investment.
+        The Key to Financial freedom is not just<br className="sm:block hidden" />  making money, but managing cash flow.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
         With the right investment opportunity you can improve the financial life 
