@@ -1,4 +1,4 @@
-import { person01, person2, person3, person04, person05, youtube, whatsapp, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
+import { person01, person2, person3, person04, person05, youtube, whatsapp, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star, person06  } from "../assets";
 
 export const navLinks = [
   {
@@ -75,12 +75,20 @@ export const feedback = [
     img: person04,
   },
   {
-    id: "feedback-4",
+    id: "feedback-5",
     content:
       "The only limit to our realization of tomorrow will be our doubts of today.",
     name: "Tope Mark Odigie",
     title: "Founder of Reb360.co",
     img: person05,
+  },
+  {
+    id: "feedback-6",
+    content:
+      "The only guaranteed path to wealth is through patience, discipline, and a touch of calculated risk.",
+    name: "Olaoluwa Ogunsanya",
+    title: "Manager @ PU Prime",
+    img: person06,
   },
 ];
 

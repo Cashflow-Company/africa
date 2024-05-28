@@ -27,6 +27,7 @@ import person3 from "./person03.jpeg.png";
 import person01 from "./person01.jpeg.png"
 import person04 from "./person04.jpeg";
 import person05 from "./person05.jpeg";
+import person06 from '../../public/images/olaoluwa-ogunsanya.jpg'
 
 
 export {
@@ -59,4 +60,5 @@ export {
   person3,
   person04,
   person05,
+  person06,
 };
