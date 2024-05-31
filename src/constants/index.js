@@ -204,7 +204,7 @@ export const socialMedia = [
   {
     id: "social-media-5",
     icon: whatsapp,
-    link: "https://www.instagram.com/",
+    link: "https://wa.me/+2349035052755?text=My%20name%20is%20____%2C%20I%27m%20interested%20in%20getting%20started%20with%20cashflow",
   },
   {
     id: "social-media-6",
